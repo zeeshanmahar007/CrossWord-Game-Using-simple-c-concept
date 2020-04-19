@@ -1,0 +1,19 @@
+-----------------------------------------------------
+1) Click play to start :
+2)You can select any level you want.
+3)Each level has different difficulties.
+4)When you enter the level you have to find the words
+  if your word is matched with maze your score will increase.
+5)you can resume the game or you can pause.
+6)your word can be horizontal,vertical,diagnol in the maze.
+7) Once you complete the level next level comes.
+8)After completing all levels you WON the game
+	-From setting- 
+9)you can choose different colour you want.
+10)You can mute and unmute the game sound .
+11)Once you enter in the setting during the game
+   you will not come back and score will be zero.
+	-THANK YOU-	
+------------------------------------------------------
+
+
